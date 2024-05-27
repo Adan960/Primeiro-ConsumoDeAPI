@@ -1,0 +1,26 @@
+body{
+    background-color: rgb(118, 229, 159);
+}
+h1{
+    margin-top: 3vh;
+    text-align: center;
+    font-size: 300%;
+}
+.cat{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.button{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+button{
+    scale: 2.5;
+    margin-top: 7vh;
+    cursor: pointer;
+}
+#imagem{
+    height: 70vh;
+}
